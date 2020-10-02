@@ -1,10 +1,10 @@
 # Ubuntu 20.04 Docker Image for Ansible Testing
 
-A docker containter using Ubuntu 20.04 with Ansible installed for playbook and role testing.
+A docker container using Ubuntu 20.04 with Ansible installed for playbook and role testing.
 
 ## Tags
 
-  - 'latest' : Python 3.8.x and the latest stable version of Ansible.
+  - 'latest'  : Python 3.8.x and the latest stable version of Ansible.
 
 ## How To Build
 
@@ -12,11 +12,11 @@ To build this docker container you can do the following.
 
   - Install Docker Engine, see [here](https://docs.docker.com/engine/install/) for details.
   - Clone this repository.
-    - `$ git clone https://github.com/glillico/`docker-ubuntu2004-ansible.git
+    - `$ git clone https://github.com/glillico/docker-ubuntu2004-ansible.git`
   - Change to the repositories directory.
     - `$ cd docker-ubuntu2004-ansible`
   - Run the command
-    - `$ docker built -t ubuntu2004-ansible .`
+    - `$ docker build -t ubuntu2004-ansible .`
 
 ## How To Use
 
