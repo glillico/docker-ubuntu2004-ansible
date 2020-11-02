@@ -1,6 +1,6 @@
 # Ubuntu 20.04 Docker Image for Ansible Testing
 
-[![Latest](https://github.com/glillico/docker-ubuntu2004-ansible/workflows/Latest/badge.svg)](https://github.com/glillico/docker-ubuntu2004-ansible/actions?query=workflow%3ALatest)
+[![latest](https://github.com/glillico/docker-ubuntu2004-ansible/workflows/latest/badge.svg)](https://github.com/glillico/docker-ubuntu2004-ansible/actions?query=workflow%3Alatest)
 
 A docker container using Ubuntu 20.04 with Ansible installed for playbook and role testing.
 
