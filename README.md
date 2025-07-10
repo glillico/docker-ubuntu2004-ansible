@@ -1,5 +1,11 @@
 # Ubuntu 20.04 Docker Image for Ansible Testing
 
+DEPRECATED - Ubuntu 20.04 is End Of Life (EOL) as of May 31st 2025. For alternatives please see the below.
+
+  - [Ubuntu 22.04](https://github.com/glillico/docker-ubuntu2204-ansible)
+  - [Ubuntu 23.04](https://github.com/glillico/docker-ubuntu2304-ansible)
+  - [Ubuntu 24.04](https://github.com/glillico/docker-ubuntu2404-ansible)
+
 [![latest](https://github.com/glillico/docker-ubuntu2004-ansible/workflows/latest/badge.svg)](https://github.com/glillico/docker-ubuntu2004-ansible/actions?query=workflow%3Alatest)
 
 A docker container using Ubuntu 20.04 with Ansible installed for playbook and role testing.
